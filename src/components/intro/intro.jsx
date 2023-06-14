@@ -20,7 +20,7 @@ const Intro = () => {
               </div>
             </div>
             <p className="i-desc">
-              Projects and Applications according to the need of the client with an extra tough of finesse.
+            Seeking a full stack developer role with an opportunity to use my skills in developing web applications and software solutions
             </p>
             </div>
             <svg

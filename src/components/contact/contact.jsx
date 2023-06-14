@@ -41,23 +41,23 @@ const Contact = () => {
             <div className="c-info">
                 <div className="c-info-item">
                     <img src={Phone} alt="" className="c-icon" />
-                    +975 17654321
+                    +1 437 436 2244
                 </div>
                 <div className="c-info-item">
                     <img src={Address} alt="" className="c-icon" />
-                    opposite Zomato Building,
-                    Karol Bagh,New Delhi
+                    238 Fisherville Road,
+                    North York,Toronto
                 </div>
                 <div className="c-info-item">
                     <img src={Email} alt="" className="c-icon" />
-                    fjsdjfsdj@mail.com
+                    mishraj436@gmail.com
                 </div>
             </div>
             </div>
             <div className="c-right">
             <p className="c-desc">
             <b>What’s your story?</b> Get in touch. Always available for
-            freelancing if the right project comes along. me.
+            freelancing if the right project comes along.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type='text' placeholder="Name" name="user_name"/>

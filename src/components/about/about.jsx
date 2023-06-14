@@ -17,21 +17,19 @@ const About = () => {
         <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-            Many things to write about me
+            Courses
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          <li>TensorFlow-Coursera</li>
+          <li>DataScience-SoloLearn</li>
+          <li>FullStackDeveloper-Coursera</li>
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Certifications</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              <li>GCP-Professional Data Engineer</li>
             </p>
           </div>
         </div>

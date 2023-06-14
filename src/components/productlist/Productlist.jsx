@@ -6,9 +6,9 @@ const Productlist = () => {
   return (
     <div className='pl'>
         <div className="pl-texts">
-            <h1 className="pl-title">Create & inspire.It's Prem</h1>
+            <h1 className="pl-title">Create,inspire and get inspired.It's Prem</h1>
             <p className="pl-desc">
-                Our service is to give the best user experience to our clients
+                Demo website profile of prototypes
             </p>
         </div>
         <div className="pl-list">
