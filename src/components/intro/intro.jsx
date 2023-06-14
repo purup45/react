@@ -1,6 +1,6 @@
 import React from 'react'
 import "./intro.css"
-import moon from"../../img/moon.png"
+import profile from"../../img/profile.png"
 
 const Intro = () => {
   return (
@@ -83,7 +83,7 @@ const Intro = () => {
           
         <div className="i-right">
           <div className="i-bg"></div>
-          <img src={moon} alt="moon" className="i-img" />
+          <img src={profile} alt="profile" className="i-img" />
         </div>
         
     </div>
