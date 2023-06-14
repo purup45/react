@@ -20,6 +20,7 @@ const Intro = () => {
               </div>
             </div>
             <p className="i-desc">
+            To obtain a position as a Full Stack Developer that will allow me to use my expertise in coding, debugging, testing, and troubleshooting
             Seeking a full stack developer role with an opportunity to use my skills in developing web applications and software solutions
             </p>
             </div>
