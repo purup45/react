@@ -1,8 +1,9 @@
+import github_logo from "../src/img/github_logo.jpg"
 export const products = [
     {
       id: 1,
-      img: "#",
-      link: "http://lama.dev",
+      img: github_logo,
+      link: "https://www.github.com/purup45",
     },
     {
       id: 2,

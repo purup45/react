@@ -9,6 +9,7 @@
 .pl-texts{
     width: 65%;   
 }
+
 .pl-title{
     font-size: 50px;
     font-weight: 600;
@@ -18,10 +19,12 @@
 }
 .pl-list{
     display: flex;
+    object-fit: contain;
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
 }
+
 @media screen and (max-width:480px){
     .pl{
        
